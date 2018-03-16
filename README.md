@@ -27,7 +27,11 @@ elephant from (7, 4) to (0, 4)
 rabbit from (2, 5) to (2, 0)
 
 This code:
-    handles puzzles of arbitrary dimensions;
-    uses the dictionary words.txt 
-    use an unordered_set<std::string> to store the dictionary;
-    sorts the output list of words of length L or more, along with their starting and ending positions alphabetically.
+
+   - handles puzzles of arbitrary dimensions
+
+   - uses the dictionary words.txt 
+
+   - use an unordered_set<std::string> to store the dictionary
+
+   - sorts the output list of words of length L or more, along with their starting and ending positions alphabetically.
