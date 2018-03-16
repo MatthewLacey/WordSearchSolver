@@ -6,12 +6,19 @@ A word search puzzle is an N×M array of lower-case letters, and the objective i
 For example, given the following puzzle and a minimum length of six,
 
 r d z i t p m f
+
 t e k a n s t d
+
 t i b b a r o o
+
 k e l a h w a a
+
 c j i e p n d k
+
 s d e o e m z i
+
 h z i y l a t x
+
 i s h h e e l s
 
 the output should be:
